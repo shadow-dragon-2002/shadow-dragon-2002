@@ -7,6 +7,7 @@ Cybersecurity analyst
 Aspiring Cybersecurity Professional | Python Enthusiast | Beginner Open Source Contributor | Constantly learning and exploring the world of technology and cybersecurity. Let's secure the digital realm, one commit at a time! 🛡️💻 #Cybersecurity #OpenSource #InfoSec
 
 * 🌍  I'm based in India
+* 👔  Open to work
 * ✉️  You can contact me at [bmk4625@gmail.com](mailto:bmk4625@gmail.com)
 
 ### Skills
